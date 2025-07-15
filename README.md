@@ -1,5 +1,9 @@
 # dlikir
 
+![Uploading Untitled.png…]()
+
+![A_captivating_and_expressive_logo_design_for_an_Islamic_app_focused_on_daily_dhikr_remembrance_of_Allah_now_incorporating_the_Palestinian_keffiyeh_The_logo_should_feature_the_phrase_Daily_Dhikr_in_a_flowing_artistic_](https://github.com/user-attachments/assets/2d65bd98-0538-4abd-817c-f468bdcefbe8)
+
 A new Flutter project.
 
 ## Getting Started
